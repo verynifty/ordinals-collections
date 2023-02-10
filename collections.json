@@ -130,5 +130,17 @@
 		"highestInscription": 9885,
 		"totalSupply": 16,
 		"idsFileSlug": "insignia-art"
+	},
+	{
+		"collectionName": "Taproot Wizards",
+		"twitter": "https://twitter.com/TaprootWizards",
+		"logo": "https://ordinals.com/content/0301e0480b374b32851a9462db29dc19fe830a7f7d7a88b81612b9d42099c0aei0",
+		"website": "",
+		"description": "We do a little magic",
+		"discord": "https://discord.gg/taprootwizards",
+		"lowestInscription": "",
+		"highestInscription": "",
+		"totalSupply": 10,
+		"idsFileSlug": "taproot-wizards"
 	}
 ]
