@@ -82,5 +82,53 @@
 		"highestInscription": 3646,
 		"totalSupply": 100,
 		"idsFileSlug": "ordinal-penguins"
+	},
+	{
+		"collectionName": "Nature On Bitcoin",
+		"twitter": "https://twitter.com/NatureOnBitcoin",
+		"logo": "https://ordinals.com/content/edb8baa4443d10fbfcb42c33a2aee934daeb2fa4af2b93f0f6a02ac17b976362i0",
+		"website": "",
+		"description": "",
+		"discord": "",
+		"lowestInscription": "",
+		"highestInscription": 4230,
+		"totalSupply": 30,
+		"idsFileSlug": "nature-bitcoin"
+	},
+	{
+		"collectionName": "Squigs",
+		"twitter": "https://twitter.com/squiggsonsats",
+		"logo": "https://ordinals.com/content/e3904b278c105a7fa28812295f751d45c01fbd7743e1803827cb7e841bc2f553i0",
+		"website": "",
+		"description": "",
+		"discord": "",
+		"lowestInscription": "",
+		"highestInscription": 6613,
+		"totalSupply": 53,
+		"idsFileSlug": "squigs"
+	},
+	{
+		"collectionName": "Ordnal Tulips",
+		"twitter": "https://twitter.com/OrdinalTulips",
+		"logo": "https://ordinals.com/content/d39fe5578d27ba7a232deeed4d866daefdb1cdfc115a9ca1094d591895bec723i0",
+		"website": "",
+		"description": "",
+		"discord": "",
+		"lowestInscription": "",
+		"highestInscription": 9230,
+		"totalSupply": 100,
+		"idsFileSlug": "ordinal-tulips"
+	},
+	{
+		"collectionName": "Insignia Art",
+		"twitter": "https://twitter.com/OrdinalTulips",
+		"logo": "https://ordinals.com/content/83479859c55557637d7a7b396c00533ec15ef6cbb86386e33248b0d75d2f208di0",
+		"website": "",
+		"description": "",
+		"discord": "",
+		"lowestInscription": "",
+		"highestInscription": 9885,
+		"totalSupply": 16,
+		"idsFileSlug": "insignia-art"
 	}
 ]
