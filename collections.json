@@ -142,5 +142,17 @@
 		"highestInscription": "",
 		"totalSupply": 10,
 		"idsFileSlug": "taproot-wizards"
+	},
+	{
+		"collectionName": "Bitcoin Punks",
+		"twitter": "https://twitter.com/PunksOnBitcoin",
+		"logo": "https://ordinals.com/content/cd9b246980f988f0ee4e3a02cbd576dad2da8696050754fc6189522079e751ddi0",
+		"website": "",
+		"description": "",
+		"discord": "https://discord.gg/g2yuUG35QH",
+		"lowestInscription": "",
+		"highestInscription": "",
+		"totalSupply": 100,
+		"idsFileSlug": "bitcoin-punks2"
 	}
 ]
