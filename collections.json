@@ -18,7 +18,7 @@
 		"logo": "https://ordinals.com/content/759974ab9d22955ba6c69d0997ae0f4902a790b104ae6cf40a5a372b68fecebai0",
 		"description": "",
 		"discord": "",
-		"lowestInscription": ,
+		"lowestInscription": "",
 		"highestInscription": 1103,
 		"totalSupply": 69,
 		"idsFileSlug": "planetary-ordinals"
@@ -30,7 +30,7 @@
 		"website": "",
 		"description": "",
 		"discord": "",
-		"lowestInscription": ,
+		"lowestInscription": "",
 		"highestInscription": 161,
 		"totalSupply": 100,
 		"idsFileSlug": "bitcoin-rocks"
@@ -39,10 +39,10 @@
 		"collectionName": "Ordinals Punks",
 		"twitter": "",
 		"website": "",
-		"logo":"https://ordinals.com/content/5c63fb98e9f218648a090c53a9b3aa5ec3b18768e8b843987bfd338fe0e8e9b7i0",
+		"logo": "https://ordinals.com/content/5c63fb98e9f218648a090c53a9b3aa5ec3b18768e8b843987bfd338fe0e8e9b7i0",
 		"description": "",
 		"discord": "",
-		"lowestInscription": ,
+		"lowestInscription": "",
 		"highestInscription": 642,
 		"totalSupply": 100,
 		"idsFileSlug": "ordinals-punks"
@@ -54,7 +54,7 @@
 		"logo": "https://ordinals.com/content/9067be8bcb6de6b01d3577aae6b0026e815b0bae475c1d14c6ef05318cc35517i0",
 		"description": "",
 		"discord": "",
-		"lowestInscription": ,
+		"lowestInscription": "",
 		"highestInscription": 2189,
 		"totalSupply": 69,
 		"idsFileSlug": "inscribed-pepes"
@@ -66,7 +66,7 @@
 		"logo": "https://ordinals.com/content/8b8d93920030b03dafc7bf2aa4379505d939ebf3649e7a2fd62d7ef43c5bdfa8i0",
 		"description": "",
 		"discord": "",
-		"lowestInscription": ,
+		"lowestInscription": "",
 		"highestInscription": 4929,
 		"totalSupply": 100,
 		"idsFileSlug": "bitcoin-toadz"
@@ -78,7 +78,7 @@
 		"website": "",
 		"description": "",
 		"discord": "",
-		"lowestInscription": ,
+		"lowestInscription": "",
 		"highestInscription": 3646,
 		"totalSupply": 100,
 		"idsFileSlug": "ordinal-penguins"
