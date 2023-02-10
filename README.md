@@ -1,4 +1,4 @@
-# Open Ordinals Collections List
+# Crowdsourced Ordinals Collections List
 
 Crowsdourced list of Ordinals Collections for general use. This list was originally created for [bitcoin.museum](https://bitcoin.museum)
 
