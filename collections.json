@@ -1,0 +1,86 @@
+[
+	{
+		"collectionName": "Bitcoin Punks",
+		"twitter": "https://twitter.com/bitcoin_punks_",
+		"website": "",
+		"logo": "https://ordinals.com/content/4e0e703251bbee1fe8531a1b3f83995df929a6ce16fdd46aee3de2f507db4132i0",
+		"description": "",
+		"discord": "https://discord.gg/XTTqyTPsUg",
+		"lowestInscription": 89,
+		"highestInscription": 34399,
+		"totalSupply": 10000,
+		"idsFileSlug": "bitcoin-punks"
+	},
+	{
+		"collectionName": "Planetary Ordinals",
+		"twitter": "",
+		"website": "",
+		"logo": "https://ordinals.com/content/759974ab9d22955ba6c69d0997ae0f4902a790b104ae6cf40a5a372b68fecebai0",
+		"description": "",
+		"discord": "",
+		"lowestInscription": ,
+		"highestInscription": 1103,
+		"totalSupply": 69,
+		"idsFileSlug": "planetary-ordinals"
+	},
+	{
+		"collectionName": "Bitcoin Rocks",
+		"twitter": "",
+		"logo": "https://ordinals.com/content/7342bde1b7c5f4528335583dc6134a93ef33f6759c5ff52f233c63cd31a6f56di0",
+		"website": "",
+		"description": "",
+		"discord": "",
+		"lowestInscription": ,
+		"highestInscription": 161,
+		"totalSupply": 100,
+		"idsFileSlug": "bitcoin-rocks"
+	},
+	{
+		"collectionName": "Ordinals Punks",
+		"twitter": "",
+		"website": "",
+		"logo":"https://ordinals.com/content/5c63fb98e9f218648a090c53a9b3aa5ec3b18768e8b843987bfd338fe0e8e9b7i0",
+		"description": "",
+		"discord": "",
+		"lowestInscription": ,
+		"highestInscription": 642,
+		"totalSupply": 100,
+		"idsFileSlug": "ordinals-punks"
+	},
+	{
+		"collectionName": "Inscribed Pepes",
+		"twitter": "https://twitter.com/InscribedPepe",
+		"website": "",
+		"logo": "https://ordinals.com/content/9067be8bcb6de6b01d3577aae6b0026e815b0bae475c1d14c6ef05318cc35517i0",
+		"description": "",
+		"discord": "",
+		"lowestInscription": ,
+		"highestInscription": 2189,
+		"totalSupply": 69,
+		"idsFileSlug": "inscribed-pepes"
+	},
+	{
+		"collectionName": "Bitcoin Toadz",
+		"twitter": "https://twitter.com/BTCToadz",
+		"website": "",
+		"logo": "https://ordinals.com/content/8b8d93920030b03dafc7bf2aa4379505d939ebf3649e7a2fd62d7ef43c5bdfa8i0",
+		"description": "",
+		"discord": "",
+		"lowestInscription": ,
+		"highestInscription": 4929,
+		"totalSupply": 100,
+		"idsFileSlug": "bitcoin-toadz"
+	},
+	{
+		"collectionName": "Ordinal Penguins",
+		"twitter": "https://twitter.com/OrdinalPenguins",
+		"logo": "https://ordinals.com/content/4e0e703251bbee1fe8531a1b3f83995df929a6ce16fdd46aee3de2f507db4132i0",
+		"website": "",
+		"description": "",
+		"discord": "",
+		"lowestInscription": ,
+		"highestInscription": 3646,
+		"totalSupply": 100,
+		"idsFileSlug": "ordinal-penguins"
+	}
+]
