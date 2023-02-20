@@ -154,5 +154,17 @@
 		"highestInscription": "",
 		"totalSupply": 100,
 		"idsFileSlug": "bitcoin-punks2"
+	},
+	{
+		"collectionName": "Ordinal Faces",
+		"twitter": "https://twitter.com/ORDINALFACES",
+		"logo": "https://ordinals.com/content/c5b65f0a7270384a3c059494ce2bc1d7764f45e4b239c98da90fc10c2a855104i0",
+		"website": "",
+		"description": "",
+		"discord": "https://discord.gg/ordinalfaces",
+		"lowestInscription": "2874",
+		"highestInscription": "4280",
+		"totalSupply": 50,
+		"idsFileSlug": "bitcoin-punks2"
 	}
 ]
